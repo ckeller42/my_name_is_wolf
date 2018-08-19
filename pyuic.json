@@ -1,0 +1,10 @@
+{
+    "files": [
+        [ "my_name_is_wolf/gui/*.ui", "my_name_is_wolf/gui"]
+    ],
+    "hooks": [],
+    "pyrcc": "pyrcc5",
+    "pyrcc_options": "",
+    "pyuic": "pyuic5",
+    "pyuic_options": "--from-import"
+}

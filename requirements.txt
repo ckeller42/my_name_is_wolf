@@ -1,0 +1,8 @@
+setuptools
+pyqt_distutils
+pyOpenSSL
+jira
+PyQt5
+PyQt5_sip
+pyinstaller
+sip
